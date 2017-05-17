@@ -1,4 +1,6 @@
 .*swp
 *pyc
+.coverage
 cover/
 dist/
+streamingzip.egg-info/
